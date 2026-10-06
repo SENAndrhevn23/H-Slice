@@ -22,3 +22,5 @@ https://github.com/HRK-EXEX/H-Slice
 **Original creator:** HRK.EXEX
 
 If you are interested in using H-Slice features in another engine, please follow the original project's requirements and contact HRK.EXEX where appropriate.
+
+If HRK.EXEX wants this down, i can carefully private or delete the code entirely, since this work is not mine and plus HRK.EXEX made this engine
