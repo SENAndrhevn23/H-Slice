@@ -1,6 +1,6 @@
 ## Disclaimer
 
-**H-Slice Continued** is an independent continuation of **H-Slice / H-Slice+JS**, originally created by **HRK.EXEX**.
+**H-Slice Legacy** is an independent continuation of **H-Slice / H-Slice+JS**, originally created by **HRK.EXEX**.
 
 This project is focused on improving performance, optimization, stability, and support for extremely large Friday Night Funkin' charts. It may introduce additional optimizations, features, fixes, and experimental changes over time.
 
