@@ -1,26 +1,28 @@
+# H-Slice
+
+**H-Slice** is a continuation of the original H-Slice project by **hrk.exex**, also known as **H-Slice+JS**.
+
+## About
+
+This project is a personal effort to keep H-Slice alive and preserve it for everyone who enjoyed the engine.
+
+The goal is to continue the project and keep it accessible to the community.
+
+## Credits
+
+- **Original Creator:** hrk.exex
+- **Original Project:** H-Slice / H-Slice+JS
+
+All credit for the original work belongs to its respective creator.
+
 ## Disclaimer
 
-**H-Slice Legacy** is an independent continuation of **H-Slice / H-Slice+JS**, originally created by **HRK.EXEX**.
+This is an unofficial continuation and personal project. It is not intended to claim ownership of the original H-Slice project or its code.
 
-This project is focused on improving performance, optimization, stability, and support for extremely large Friday Night Funkin' charts. It may introduce additional optimizations, features, fixes, and experimental changes over time.
+If hrk.exex requests that this project be taken down, I will respect that request and remove it.
 
-> **This is NOT an official continuation of H-Slice unless explicitly approved by HRK.EXEX.**
+For now, this project exists simply to help keep H-Slice alive for everyone who wants to use or explore it.
 
-The original H-Slice/H-Slice+JS source, features, and contributions remain credited to their respective original creators. This project does not claim ownership of the original H-Slice work.
+---
 
-### Optimization Disclaimer
-
-This continuation aims to push H-Slice's optimization as far as possible, particularly for extremely large charts that are impractical for normal FNF engines.
-
-Optimization results can vary depending on the chart, computer hardware, operating system, engine settings, and other factors. Claims such as "best optimization" should be considered a development goal rather than a guaranteed benchmark result.
-
-### Original Project
-
-Original H-Slice repository:
-https://github.com/HRK-EXEX/H-Slice
-
-**Original creator:** HRK.EXEX
-
-If you are interested in using H-Slice features in another engine, please follow the original project's requirements and contact HRK.EXEX where appropriate.
-
-If HRK.EXEX wants this down, i can carefully private or delete the code entirely, since this work is not mine and plus HRK.EXEX made this engine
+*Made to keep H-Slice alive.*
